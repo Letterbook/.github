@@ -2,8 +2,8 @@
 name: Task
 about: Coordinate self-directed work from maintainers
 title: Use imperative mood if you can (ex. Add authentication service)
-labels: enhancement
-assignees: jenniferplusplus
+labels: internals
+assignees: 
 
 ---
 
